@@ -1,6 +1,16 @@
 <style>
-@media only screen and (min-width: 600px) #container {display: none;  }}
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+@media all and (max-width: 720px) {
+  .container {
+    display: none;
+  }
+}
+
+
 </style>
+
 
 body { 
 	margin:0;
