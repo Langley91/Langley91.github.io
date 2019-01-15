@@ -2,7 +2,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-@media all and (max-width: 720px) {
+@media screen (max-width: 720px) {
   .container {
     display: none;
   }
