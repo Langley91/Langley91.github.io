@@ -1,16 +1,22 @@
 
 
 
+
+
 body { 
 	margin:0;
 	padding:0;
 	background: #999;}
 
+
 #container { 
 	width: 0px;
 	margin: 5px;
-	background:#caf;}
+	background:#caf;
     display: block;
+   
+}
+
 
 #man {
 	position:relative;
@@ -25,7 +31,7 @@ body {
 	
 #man li {
 	position:absolute;
-	border: 1px solid red;
+	border: 1px solid black;
 }
 
 #man a {
