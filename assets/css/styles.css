@@ -1,8 +1,4 @@
-
-
-
-
-
+<!-- Body map CSS -->
 body { 
 	margin:0;
 	padding:0;
@@ -101,14 +97,16 @@ body {
     box-shadow: 0 0 5px 5px white inset;
 }
 
+<!-- End of body map CSS -->
+
+<!-- Welcome picture -->
 
 .image-welcome-picture
 {max-width:100%;height:auto;moz-box-shadow: 0 0 5px 5px #888;-webkit-box-shadow: 0 0 5px 5px#888;box-shadow: 0 0 5px 5px #888;}
 img{vertical-align:middle}
 a{color:inherit}
 
-
-
+<!-- End of welcome picture -->
 
 
 
